@@ -1,7 +1,7 @@
 
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int five=0;
+         int five=0;
         int ten=0;
         int twenty=0;
         for(int i=0;i<bills.length;i++)
